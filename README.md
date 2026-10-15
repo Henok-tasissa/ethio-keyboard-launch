@@ -1,7 +1,7 @@
 # Ethio Amharic Keyboard: launch site
 
 Product launch site for **Ethio Amharic Keyboard** on iPhone/iPad and Mac: promo, screenshots, install guide and FAQ.
-Plain static HTML/CSS (no build step), deployed on Vercel.
+Plain static HTML/CSS (no build step). Live at **https://ethio-keyboard-launch.vercel.app** (Vercel, auto-deploys on every push to `main`).
 
 | Page | File |
 |---|---|
